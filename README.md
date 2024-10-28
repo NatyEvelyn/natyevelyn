@@ -6,6 +6,10 @@
 
 ###
 
+<p align="left">(👋 Olá! Sou Natália Evelyn, formada em Administração de Empresas e pós-graduada em Gestão de TI e Metodologias Ágeis. Minha jornada na programação começou no bootcamp de frontend da Laboratoria, onde aprendi JavaScript e outras tecnologias web. Atualmente, faço parte do time de tecnologia do Banco Bradesco, onde trabalho com COBOL e continuo evoluindo minhas habilidades estudando Angular. Apaixonada por aprender e resolver problemas, estou sempre em busca de novas oportunidades para crescer no mundo tech.)</p>
+
+###
+
 <h2 align="left">Technologies(Tecnologias)</h2>
 
 ###
