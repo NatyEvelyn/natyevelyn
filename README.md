@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Angular Developer<br>- Software Developer at @bradesco</p>
+<p align="left">👋 Hi! I’m Natália Evelyn, with a background in Business Administration and a postgraduate degree in IT Management and Agile Methodologies. My programming journey started with a frontend bootcamp at Laboratoria, where I learned JavaScript and other web technologies. Currently, I'm part of the tech team at Banco Bradesco, working with COBOL and expanding my skills by studying Angular. Passionate about learning and problem-solving, I'm always looking for new opportunities to grow in the tech world.</p>
 
 ###
 
