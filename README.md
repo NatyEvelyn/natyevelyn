@@ -1,4 +1,4 @@
-<h2 align="left">About Me(Sobre Mim)</h2>
+<h2 align="left">About Me (Sobre Mim)</h2>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">Technologies(Tecnologias)</h2>
+<h2 align="left">Technologies (Tecnologias)</h2>
 
 ###
 
@@ -46,7 +46,7 @@
 
 ###
 
-<h2 align="left">Stats(Estatísticas)</h2>
+<h2 align="left">Stats (Estatísticas)</h2>
 
 ###
 
@@ -57,7 +57,7 @@
 
 ###
 
-<h2 align="left">Social Media(Rede Social)</h2>
+<h2 align="left">Social Media (Rede Social)</h2>
 
 ###
 
